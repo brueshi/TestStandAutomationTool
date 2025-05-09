@@ -74,4 +74,4 @@ This project demonstrates skills critical for SpaceX’s test engineering:
 - Integrate unit tests with a framework like Catch2.
 
 ## Contact
-For questions or feedback, reach out via [your-email@example.com] or [your-GitHub-profile].
+For questions or feedback, reach out via [bruechnerjoseph@gmail.com].
