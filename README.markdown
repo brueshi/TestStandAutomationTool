@@ -26,7 +26,7 @@ This project demonstrates skills critical for SpaceX’s test engineering:
 ## Setup and Running
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/brueshi/TestStandAutomationTool>
    cd TestStandAutomationTool
    ```
 
