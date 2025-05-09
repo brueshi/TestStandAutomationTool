@@ -1,0 +1,15 @@
+Timestamp,PassCount,FailCount,AvgTemp,AvgPressure,AvgThrust
+Fri May  9 11:02:36 2025,67,28,59.8794,3.00523,993.864
+Fri May  9 11:02:37 2025,69,31,57.0776,2.9602,1011.49
+Timestamp,PassCount,FailCount,AvgTemp,AvgPressure,AvgThrust
+Fri May  9 11:23:09 2025,62,25,51.8737,3.17072,995.514
+Fri May  9 11:23:10 2025,70,30,56.0261,2.96542,1089.11
+Timestamp,PassCount,FailCount,AvgTemp,AvgPressure,AvgThrust
+Fri May  9 11:23:18 2025,59,27,55.8765,3.07635,1105.56
+Fri May  9 11:23:19 2025,70,30,58.2325,2.96617,1095.27
+Timestamp,PassCount,FailCount,AvgTemp,AvgPressure,AvgThrust
+Fri May  9 11:35:37 2025,64,22,53.19,3.264,1122.94
+Fri May  9 11:35:38 2025,77,23,53.19,3.264,1122.94
+Timestamp,PassCount,FailCount,AvgTemp,AvgPressure,AvgThrust
+Fri May  9 11:37:26 2025,77,23,53.19,3.264,1122.94
+Fri May  9 11:37:27 2025,77,23,53.19,3.264,1122.94
